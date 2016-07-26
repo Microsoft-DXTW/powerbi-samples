@@ -1,0 +1,8 @@
+SELECT
+    *
+INTO
+    PBIRecv
+FROM
+    HVACSource
+WHERE
+    temperature > 26
