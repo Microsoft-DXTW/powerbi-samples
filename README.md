@@ -2,6 +2,7 @@
 關於 Power BI 家族的各種範例
 
 # 範例說明
+  * **HVAC-Sample**: 透過一個簡單 HVAC 控制器的資料來瞭解如何建立資料集並產生報表
   * **Stream-Analytics-Realtime-Demo**: 從 Azure 串流分析即時送資料到 Power BI 的範例。
 
 
